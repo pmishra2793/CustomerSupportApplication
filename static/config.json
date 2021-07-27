@@ -1,0 +1,7 @@
+{
+  "params": {
+    "database_uri": "sqlite:///customerquery.db",
+    "email": "",
+    "password": ""
+  }
+}
